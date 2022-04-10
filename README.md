@@ -1,0 +1,2 @@
+# CS545FP
+CS545 Human Computer Interaction is course offered at Stevens Institute of Technology and taught by Professor Gregg T. Vesonder. This course targets how to create effective, efficient and enjoyable human computer interactions using both standard and emerging techniques. It explores psychological foundations, fundamental concepts, task analysis, requirements analysis, and techniques for design and implementation. Meanwhile, this repository is dedicated to the term long final project.  
